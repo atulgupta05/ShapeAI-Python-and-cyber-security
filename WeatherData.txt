@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - VARANASI  || 23 Jun 2021 | 08:29:18 PM
+-------------------------------------------------------------
+Current temperature is:28.05 deg C
+Current weather desc  :mist
+Current Humidity      :89 %
+Current wind speed    :1.03 kmph
